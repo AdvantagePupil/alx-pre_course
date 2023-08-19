@@ -1,2 +1,0 @@
-git switch update_script 
- git checkout master -- README.md
